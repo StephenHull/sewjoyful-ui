@@ -19,6 +19,13 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+# IDE files
+.idea/**/$CACHE_FILES
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/sewjoyful-ui.iml
+.idea/**/vcs.xml
+
 # dependencies
 /node_modules
 /.pnp
